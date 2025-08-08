@@ -1,6 +1,6 @@
 * [Setup](/)
 * [Create token](create_token.md)
 * [Buy/Sell token](buy_sell_token.md)
-* [Close accounts](buy_sell_token.md)
+* [Closing accounts](close_account.md)
 * [Streaming](streaming.md)
 * [Links](links.md)

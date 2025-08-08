@@ -2,7 +2,10 @@
 
 > Buying and selling depends on wether the token is bonding or already graduated
 
-## Buy token
+### Buy token
+
+- ⚠️ Fill up the data at the top (RPC, keypairs, token metadata)
+- ⚠️ Install all imported NPM packages
 
 ```javascript
 // Replace with your Helius RPC URL
@@ -131,7 +134,10 @@ async function main() {
 main();
 ```
 
-## Sell token
+### Sell token
+
+- ⚠️ Fill up the data at the top (RPC, keypairs, token metadata)
+- ⚠️ Install all imported NPM packages
 
 ```javascript
 // Replace with your Helius RPC URL
