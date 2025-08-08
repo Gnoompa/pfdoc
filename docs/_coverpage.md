@@ -6,7 +6,7 @@
 
 > TypeScript step-by-step examples
 
-- Community-led initiative
+- Community-led initiative for open & safe-to-use software
 
 - 🟢 Updated Aug 7 2025
 
