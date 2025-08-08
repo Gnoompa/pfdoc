@@ -7,7 +7,11 @@
 - ⚠️ Fill up the data at the top (RPC, keypairs, token metadata)
 - ⚠️ Install all imported NPM packages
 
+> Run the code below with `npx tsx example.ts`
+
 ```javascript
+// example.ts
+
 // Replace with your Helius RPC URL
 const RPC = "https://mainnet.helius-rpc.com/?api-key=???";
 // Replace with token address
@@ -139,7 +143,11 @@ main();
 - ⚠️ Fill up the data at the top (RPC, keypairs, token metadata)
 - ⚠️ Install all imported NPM packages
 
+> Run the code below with `npx tsx example.ts`
+
 ```javascript
+// example.ts
+
 // Replace with your Helius RPC URL
 const RPC = "https://mainnet.helius-rpc.com/?api-key=???";
 // Replace with token address

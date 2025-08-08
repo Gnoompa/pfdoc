@@ -12,10 +12,10 @@ Token address could be a random one or begin with specific characters you choose
 - ⚠️ Install all imported NPM packages
 - ⚠️ Create "img" folder and put token JPEG there
 
-> Run the code below with `npx tsx code.ts`
+> Run the code below with `npx tsx example.ts`
 
 ```javascript
-// code.ts
+// example.ts
 
 // Replace with your Helius RPC URL
 const RPC = "https://mainnet.helius-rpc.com/?api-key=???";
