@@ -2,7 +2,7 @@
 
 ## Local machine setup
 
-Easiest way to stream is to use [OBS](https://obsproject.com/). If you need to stream simounteniusely to multiple platforms (pump.fun, X, Twitch), use multistreaming with custom RTMP from [Restream](https://restream.io/multistreaming) or [Streamyard](https://streamyard.com/multistreaming)
+Easiest way to stream is to use [OBS](https://obsproject.com/). If you need to stream simultaneously to multiple platforms (pump.fun, X, Twitch), use multistreaming with custom RTMP from [Restream](https://restream.io/multistreaming) or [Streamyard](https://streamyard.com/multistreaming)
 
 ## Remote machine setup
 
